@@ -10,8 +10,8 @@ install.packages("tidyverse")
 library(fredr)
 library(tidyverse)
 ?fredr_set_key()
-api_key <- "e5809b79daccde50a88d9c5a0fcbbd96"
-fredr_set_key("e5809b79daccde50a88d9c5a0fcbbd96")
+api_key <- "api key"
+fredr_set_key("api key")
 
 series <- c (
   "USAUCSFRCONDOSMSAMID" ,
