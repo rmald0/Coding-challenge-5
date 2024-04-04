@@ -3,3 +3,5 @@
 plot(x,y)
 x <- 7
 y <- 90
+#limited turkeys
+plot(pi)
